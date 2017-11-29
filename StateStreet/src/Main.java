@@ -2,7 +2,7 @@ import java.io.File;
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		
 				
 		File path1 = new File("res/data/gmbh");
